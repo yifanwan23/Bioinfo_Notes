@@ -2,7 +2,7 @@
 My bioinfo class notes.
 ## Week1
 ### New Concepts
-- **Algorithm vs. Model**  
+**Algorithm vs. Model**  
 ***Algorithm***​ is the recipe​ or the set of instructions.  
 ***Model***​ is the result​ of following the recipe with specific ingredients.  
 The algorithm​ is the ***process***; the model​ is the ***product***.
