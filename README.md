@@ -15,5 +15,3 @@ I hope to achieve the following goals this semester to lay a solid foundation fo
 #### Knowledge Acquisition
 1. Understand what Bioinformatics is about
 2. Know the ***general steps*** of Bioinformatics analysis
-**************
-*A journey of a thousand miles begins with a single step.*
